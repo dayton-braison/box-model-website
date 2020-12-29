@@ -1,0 +1,27 @@
+div {
+    width: 400px;
+    height: 400px;
+    background-color: greenyellow;
+    border: 10px inset navy;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+#one {
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+#two {
+    margin-left: 55px;
+}
+
+h1 {
+    background-color: orange;
+    display: inline;
+}
+
+span {
+    background-color: aqua;
+    display: block;
+}
